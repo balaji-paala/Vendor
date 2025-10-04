@@ -1,0 +1,12 @@
+# Virtual environment
+vendorEnv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Logs
+*.log
+
